@@ -6,7 +6,7 @@
 
   **Atma's Wail** - +13 replenish life, +154% AC
 
-  **Azurewrath** - +500 Magic Damge, +7 all-stats, +250-500 cold damage
+  **Azurewrath** - 10 aura, +500 Magic Damge, +7 all-stats, +250-500 cold damage
 
   **Blackhorn's Face** - +268 light-thorns, +14 lightng absorb, +216% AC
 
